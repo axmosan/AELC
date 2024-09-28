@@ -1,5 +1,6 @@
 # AELanguageChanger
 Adobe After Effectsで簡単に言語設定を日本語⇔英語に変更できるソフトウェアです。
+
 ![AELC_Preview](https://github.com/user-attachments/assets/7f7caa56-4e21-43e0-a94d-c58cfc2b350d)
 
 ## 仕様
