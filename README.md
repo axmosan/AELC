@@ -1,4 +1,8 @@
 # AELanguageChanger
+
+![AELC_256x256](https://github.com/user-attachments/assets/b7102995-8039-4bc8-9c62-150420f100b5)
+
+
 Adobe After Effectsで簡単に言語設定を日本語⇔英語に変更できるソフトウェアです。
 
 ![AELC_Preview](https://github.com/user-attachments/assets/7f7caa56-4e21-43e0-a94d-c58cfc2b350d)
@@ -10,7 +14,9 @@ After Effectsはドキュメント直下に【ae_force_english.txt】という�
 ![image](https://github.com/user-attachments/assets/dc4bbbfc-207d-4a1a-a5ca-74a1505b1158)
 
 このソフトウェアでは、起動して
+
 【Japanese】を選択すると【ae_force_english.txt】がある場合はそれを削除し、【ae_force_japanese.txt】を作成して日本語起動状態にします。
+
 【English】を選択すると【ae_force_japanese.txt】がある場合はそれを削除し、【ae_force_english.txt】を作成して英語起動状態にします。
 
 頻繁にAeの言語を変更するニッチな使い方をする方向けのソフトウェアです。
