@@ -26,7 +26,10 @@ After Effectsはドキュメント直下に【ae_force_english.txt】という�
 
 ## 更新履歴
 
-2024/10/5 v1.1
+### 2024/10/5 v1.1
+
 ・名称をAfterEffects Language ChangerからALCEに変更しました。
+
 ・ウィンドウカラーの変更を行いました。
+
 ・その他細かな修正を行いました。
