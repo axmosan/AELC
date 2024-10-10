@@ -1,4 +1,4 @@
-# ALCE (AfterEffects Language Changer)
+# AELC (AfterEffects Language Changer)
 
 ![AELC_256x256](https://github.com/user-attachments/assets/b7102995-8039-4bc8-9c62-150420f100b5)
 
@@ -11,6 +11,8 @@ Adobe After Effectsで簡単に言語設定を日本語⇔英語に変更でき�
 ## 仕様
 
 After Effectsはドキュメント直下に【ae_force_english.txt】というテキストファイルがあれば強制的に言語が英語の状態で起動されます。
+
+逆に【ae_force_japanese.txt】を配置しておけば強制的に日本語の状態で起動されます。
 
 ![image](https://github.com/user-attachments/assets/dc4bbbfc-207d-4a1a-a5ca-74a1505b1158)
 
